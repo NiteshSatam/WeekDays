@@ -1,2 +1,3 @@
 echo "Welcome to Week Days Program !!!!"
 echo "Sunday"
+echo "Monday"
